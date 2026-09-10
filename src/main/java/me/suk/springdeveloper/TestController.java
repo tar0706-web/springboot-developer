@@ -26,4 +26,6 @@ public class TestController {
     public String posttest () {
         return "안녕하세요 '안녕하세요? /Post' 에 대한 응답입니다.";
     }
+    @GetMapping ("/memeber")
+        public String getAllMember(){ return "";}
 }
