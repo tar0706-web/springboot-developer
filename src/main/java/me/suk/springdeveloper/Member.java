@@ -18,4 +18,8 @@ public class Member {
     @Column(name="name", nullable = false)
     private String name;
 
+    public Member(String name){
+        this.name = name;
+    }
+
 }

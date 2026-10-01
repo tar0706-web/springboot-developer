@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="JUnitTest" tests="2" skipped="0" failures="1" errors="0" timestamp="2026-09-30T08:10:33.140Z" hostname="DESKTOP-IPM9QK7" time="0.088">
+  <properties/>
+  <testcase name="1+3=3이다" classname="JUnitTest" time="0.043">
+    <failure message="org.opentest4j.AssertionFailedError: expected: &lt;3&gt; but was: &lt;4&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;3&gt; but was: &lt;4&gt;
+	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)
+	at org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)
+	at org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:197)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:150)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:145)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:531)
+	at JUnitTest.junitFailTest(JUnitTest.java:24)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+</failure>
+  </testcase>
+  <testcase name="1+2=3이다" classname="JUnitTest" time="0.001"/>
+  <system-out><![CDATA[최초 준비
+테스트 준비
+1+3=3이다
+테스트 후 설겆이
+테스트 준비
+1+2=3이다
+테스트 후 설겆이
+최종 마무리
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
