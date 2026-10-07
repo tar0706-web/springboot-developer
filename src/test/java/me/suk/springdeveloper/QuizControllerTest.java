@@ -65,10 +65,10 @@ class QuizControllerTest {
         final ResultActions result = mockMvc.perform(get(url).param("code","2"));
 
         // 검증 then
-        result.andExpect(status().isCreated()).andExpect(content().string("Bad Request"));
+        result.andExpect(status().isBadRequest()).andExpect(content().string("Bad Request"));
     }
 
-    @DisplayName("POST: /quiz 요청,요청 바디에 {'value':2 응답코드는 200, 응답본문은 Forbidden ")
+    @DisplayName("POST: /quiz 요청,요청 바디에 {'value':2 응답코드는 400, 응답본문은 Forbidden ")
     @Test
     void postQuiz2() throws Exception {
         // 준비 given
