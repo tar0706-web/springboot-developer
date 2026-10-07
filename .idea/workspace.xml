@@ -4,11 +4,62 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="466639d1-688e-40bd-a2ee-ff0d740a13b2" name="변경" comment="브랜치 잘못되서 넣은거 09월30일">
-      <change afterPath="$PROJECT_DIR$/src/test/java/me/suk/springdeveloper/MemberControllerTest.java" afterDir="false" />
+    <list default="true" id="466639d1-688e-40bd-a2ee-ff0d740a13b2" name="변경" comment="10월01일 MemberController JUnit test">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_classmate_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_h2database_h2_2_3_232.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_istack_istack_commons_runtime_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_zaxxer_HikariCP_5_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_smallrye_jandex_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__jakarta_inject_jakarta_inject_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__jakarta_persistence_jakarta_persistence_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__jakarta_transaction_jakarta_transaction_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_antlr_antlr4_runtime_4_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_aspectj_aspectjweaver_1_9_22_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_angus_angus_activation_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_glassfish_jaxb_jaxb_core_4_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_glassfish_jaxb_jaxb_runtime_4_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_glassfish_jaxb_txw2_4_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_common_hibernate_commons_annotations_7_0_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_orm_hibernate_core_6_6_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_6_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_projectlombok_lombok_1_18_36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_data_jpa_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_jdbc_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_commons_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_jpa_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aspects_6_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jdbc_6_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_orm_6_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_tx_6_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/suk/springdeveloper/QuizController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/me/suk/springdeveloper/QuizControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.6.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.6.0/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.6.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.6.0/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.6.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.6.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.6.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.6.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.6.0/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.6.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/backend-developer.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/backend-developer.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/backend-developer.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/backend-developer.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/suk/springdeveloper/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/suk/springdeveloper/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/suk/springdeveloper/Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/me/suk/springdeveloper/Member.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/JUnitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/problems/problems-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/problems/problems-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/JUnitTest/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/JUnitTest/junitFailTest().html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/JUnitTest/junitTest().html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-JUnitTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output-events.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output-events.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results-generic.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results-generic.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/TestController.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/JUnitTest.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/me/suk/springdeveloper/MemberControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/me/suk/springdeveloper/MemberControllerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +93,9 @@
       <list>
         <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
         <option value="JUnit5 Test Class" />
-        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -74,61 +125,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000000207137" />
-      <entry key="S2" value="1.0049429906626617" />
-      <entry key="S5" value="1.3121146290515542" />
-      <entry key="S10" value="2.333632349418896" />
-      <entry key="S30" value="4.796571291190258" />
-      <entry key="S60" value="6.311987508261459" />
-      <entry key="M2" value="8.325171531524521" />
-      <entry key="M5" value="16.169479502715458" />
-      <entry key="M10" value="30.08226528557944" />
-      <entry key="M15" value="41.414124492142335" />
-      <entry key="M30" value="65.27568714238987" />
-      <entry key="H1" value="99.34799605386361" />
-      <entry key="H2" value="152.40209758309612" />
-      <entry key="H4" value="217.20714004938725" />
-      <entry key="D1" value="326.3025394826084" />
-      <entry key="W1" value="354.0295265718386" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="3.518144350140083E-239" />
+      <entry key="S2" value="2.4357935525450915E-60" />
+      <entry key="S5" value="1.4838394750352477E-24" />
+      <entry key="S10" value="1.5224619627092134E-12" />
+      <entry key="S30" value="2.1499396809389863E-4" />
+      <entry key="S60" value="0.025331632587251313" />
+      <entry key="M2" value="0.3122228879741285" />
+      <entry key="M5" value="2.2865633196700634" />
+      <entry key="M10" value="7.246448118768351" />
+      <entry key="M15" value="13.439850123362207" />
+      <entry key="M30" value="33.518931647217535" />
+      <entry key="H1" value="74.44518308783827" />
+      <entry key="H2" value="148.07146662101255" />
+      <entry key="H4" value="248.55682279531814" />
+      <entry key="D1" value="446.0681884206942" />
+      <entry key="W1" value="501.78515173513455" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0151543053337326E-32" />
-      <entry key="MS500" value="3.993065298780486E-7" />
-      <entry key="S2" value="0.025241016644571238" />
-      <entry key="S5" value="0.25459945812116497" />
-      <entry key="S10" value="0.6392062637620117" />
-      <entry key="S30" value="1.4245014897740922" />
-      <entry key="S60" value="1.9428211561480784" />
-      <entry key="M2" value="2.4563408671560034" />
-      <entry key="M5" value="3.717722849124538" />
-      <entry key="M10" value="6.364817160994842" />
-      <entry key="M15" value="8.79331801014097" />
-      <entry key="M30" value="14.176826613749123" />
-      <entry key="H1" value="23.555711653741856" />
-      <entry key="H2" value="42.762716371252296" />
-      <entry key="H4" value="68.81681625763616" />
-      <entry key="D1" value="113.62008584868965" />
-      <entry key="W1" value="124.96925209059066" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0000000088587706" />
+      <entry key="S60" value="1.0000965163014406" />
+      <entry key="M2" value="1.0130573711763045" />
+      <entry key="M5" value="1.474553593600372" />
+      <entry key="M10" value="3.4891073821259115" />
+      <entry key="M15" value="6.10432370458202" />
+      <entry key="M30" value="13.78856758753471" />
+      <entry key="H1" value="27.129747933084275" />
+      <entry key="H2" value="50.38726990304869" />
+      <entry key="H4" value="84.73552429825214" />
+      <entry key="D1" value="157.1693996402545" />
+      <entry key="W1" value="178.14095690523882" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="2.5527611575993082E-27" />
-      <entry key="MS500" value="4.84836458674339E-6" />
-      <entry key="S2" value="0.06608138366113736" />
-      <entry key="S5" value="0.7994574971355208" />
-      <entry key="S10" value="2.423389122533199" />
-      <entry key="S30" value="5.960727671384398" />
-      <entry key="S60" value="8.104589401877531" />
-      <entry key="M2" value="10.689121383852227" />
-      <entry key="M5" value="19.815207861311503" />
-      <entry key="M10" value="36.377502918210645" />
-      <entry key="M15" value="50.14234616453164" />
-      <entry key="M30" value="79.40103128666628" />
-      <entry key="H1" value="122.86551758870165" />
-      <entry key="H2" value="195.13625599961034" />
-      <entry key="H4" value="286.00403910943857" />
-      <entry key="D1" value="439.9177860240078" />
-      <entry key="W1" value="478.9980336479227" />
+      <entry key="MS100" value="6.857640994814438E-4" />
+      <entry key="MS500" value="0.23293510732619324" />
+      <entry key="S2" value="0.694718297179424" />
+      <entry key="S5" value="0.8644173893059977" />
+      <entry key="S10" value="0.9297404956808243" />
+      <entry key="S30" value="0.9762241231281871" />
+      <entry key="S60" value="1.013348948893824" />
+      <entry key="M2" value="1.3188390139329782" />
+      <entry key="M5" value="3.7537552549034925" />
+      <entry key="M10" value="10.720929096486394" />
+      <entry key="M15" value="19.52476324247768" />
+      <entry key="M30" value="47.28366087402746" />
+      <entry key="H1" value="101.54967287270868" />
+      <entry key="H2" value="198.4338893069563" />
+      <entry key="H4" value="333.27143103494143" />
+      <entry key="D1" value="603.2313408275205" />
+      <entry key="W1" value="679.9251063644463" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -150,6 +201,7 @@
     "Gradle.JUnitTest.executor": "Run",
     "Gradle.JUnitTest.junitFailTest.executor": "Run",
     "Gradle.MemberControllerTest.executor": "Run",
+    "Gradle.QuizControllerTest.executor": "Run",
     "Gradle.backend-developer 빌드.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Repository.Attach.Annotations": "false",
@@ -163,6 +215,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.SpringBootDeveloperApplication (1).executor": "Run",
     "Spring Boot.SpringBootDeveloperApplication.executor": "Run",
     "codeWithMe.voiceChat.enabledByDefault": "false",
@@ -201,7 +254,7 @@
       <recent name="me.suk.springdeveloper" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.MemberControllerTest">
+  <component name="RunManager" selected="Gradle.QuizControllerTest">
     <configuration name="JUnitTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -283,6 +336,33 @@
       <GradleCoverageDisabled>false</GradleCoverageDisabled>
       <method v="2" />
     </configuration>
+    <configuration name="QuizControllerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;me.suk.springdeveloper.QuizControllerTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <ExternalSystemDebugDisabled>false</ExternalSystemDebugDisabled>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <GradleProfilingDisabled>false</GradleProfilingDisabled>
+      <GradleCoverageDisabled>false</GradleCoverageDisabled>
+      <method v="2" />
+    </configuration>
     <configuration name="SpringBootDeveloperApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="backend-developer.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="me.suk.springdeveloper.SpringBootDeveloperApplication" />
@@ -305,11 +385,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.QuizControllerTest" />
         <item itemvalue="Gradle.MemberControllerTest" />
         <item itemvalue="Spring Boot.SpringBootDeveloperApplication" />
         <item itemvalue="Gradle.JUnitTest" />
         <item itemvalue="Gradle.JUnitTest.junitFailTest" />
-        <item itemvalue="Spring Boot.SpringBootDeveloperApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +423,8 @@
     <MESSAGE value="1주차" />
     <MESSAGE value="junit 테스트코드작성" />
     <MESSAGE value="브랜치 잘못되서 넣은거 09월30일" />
-    <option name="LAST_COMMIT_MESSAGE" value="브랜치 잘못되서 넣은거 09월30일" />
+    <MESSAGE value="10월01일 MemberController JUnit test" />
+    <option name="LAST_COMMIT_MESSAGE" value="10월01일 MemberController JUnit test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
