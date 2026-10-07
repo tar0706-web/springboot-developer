@@ -4,62 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="466639d1-688e-40bd-a2ee-ff0d740a13b2" name="변경" comment="10월01일 MemberController JUnit test">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_classmate_1_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_h2database_h2_2_3_232.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_istack_istack_commons_runtime_4_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_zaxxer_HikariCP_5_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_smallrye_jandex_3_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__jakarta_inject_jakarta_inject_api_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__jakarta_persistence_jakarta_persistence_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__jakarta_transaction_jakarta_transaction_api_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_antlr_antlr4_runtime_4_13_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_aspectj_aspectjweaver_1_9_22_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_angus_angus_activation_2_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_glassfish_jaxb_jaxb_core_4_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_glassfish_jaxb_jaxb_runtime_4_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_glassfish_jaxb_txw2_4_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_common_hibernate_commons_annotations_7_0_3_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_orm_hibernate_core_6_6_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_6_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_projectlombok_lombok_1_18_36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_data_jpa_3_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_jdbc_3_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_commons_3_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_jpa_3_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aspects_6_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jdbc_6_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_orm_6_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_tx_6_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/suk/springdeveloper/QuizController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/me/suk/springdeveloper/QuizControllerTest.java" afterDir="false" />
+    <list default="true" id="466639d1-688e-40bd-a2ee-ff0d740a13b2" name="변경" comment="10월07일">
       <change beforePath="$PROJECT_DIR$/.gradle/9.6.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.6.0/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/9.6.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.6.0/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/9.6.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.6.0/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/9.6.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.6.0/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/9.6.0/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.6.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/backend-developer.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/backend-developer.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/backend-developer.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/backend-developer.test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/suk/springdeveloper/Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/me/suk/springdeveloper/Member.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/JUnitTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/problems/problems-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/problems/problems-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/JUnitTest/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/JUnitTest/junitFailTest().html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/JUnitTest/junitTest().html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/suk/springdeveloper/QuizController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/me/suk/springdeveloper/QuizController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/me/suk/springdeveloper/QuizControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/me/suk/springdeveloper/QuizControllerTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-JUnitTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/me.suk.springdeveloper.QuizControllerTest/getQuiz1().html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/me.suk.springdeveloper.QuizControllerTest/getQuiz1().html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/me.suk.springdeveloper.QuizControllerTest/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/me.suk.springdeveloper.QuizControllerTest/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-me.suk.springdeveloper.QuizControllerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-me.suk.springdeveloper.QuizControllerTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output-events.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output-events.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results-generic.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results-generic.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/TestController.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/QuizController.class.uniqueId0" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/QuizController.class.uniqueId0" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/JUnitTest.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/QuizControllerTest.class.uniqueId0" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/QuizControllerTest.class.uniqueId0" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/me/suk/springdeveloper/MemberControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/me/suk/springdeveloper/MemberControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/suk/springdeveloper/QuizController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/suk/springdeveloper/QuizController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/me/suk/springdeveloper/QuizControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/me/suk/springdeveloper/QuizControllerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,61 +90,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="3.518144350140083E-239" />
-      <entry key="S2" value="2.4357935525450915E-60" />
-      <entry key="S5" value="1.4838394750352477E-24" />
-      <entry key="S10" value="1.5224619627092134E-12" />
-      <entry key="S30" value="2.1499396809389863E-4" />
-      <entry key="S60" value="0.025331632587251313" />
-      <entry key="M2" value="0.3122228879741285" />
-      <entry key="M5" value="2.2865633196700634" />
-      <entry key="M10" value="7.246448118768351" />
-      <entry key="M15" value="13.439850123362207" />
-      <entry key="M30" value="33.518931647217535" />
-      <entry key="H1" value="74.44518308783827" />
-      <entry key="H2" value="148.07146662101255" />
-      <entry key="H4" value="248.55682279531814" />
-      <entry key="D1" value="446.0681884206942" />
-      <entry key="W1" value="501.78515173513455" />
-    </decayedCancelled>
-    <decayedSelected>
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
       <entry key="S2" value="1.0" />
       <entry key="S5" value="1.0" />
       <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0000000088587706" />
-      <entry key="S60" value="1.0000965163014406" />
-      <entry key="M2" value="1.0130573711763045" />
-      <entry key="M5" value="1.474553593600372" />
-      <entry key="M10" value="3.4891073821259115" />
-      <entry key="M15" value="6.10432370458202" />
-      <entry key="M30" value="13.78856758753471" />
-      <entry key="H1" value="27.129747933084275" />
-      <entry key="H2" value="50.38726990304869" />
-      <entry key="H4" value="84.73552429825214" />
-      <entry key="D1" value="157.1693996402545" />
-      <entry key="W1" value="178.14095690523882" />
+      <entry key="S30" value="1.0000085440437851" />
+      <entry key="S60" value="1.0050498883387644" />
+      <entry key="M2" value="1.1394036143532453" />
+      <entry key="M5" value="2.6561777712994847" />
+      <entry key="M10" value="7.167185998802156" />
+      <entry key="M15" value="13.069862759306915" />
+      <entry key="M30" value="32.7646534096225" />
+      <entry key="H1" value="73.47088734560828" />
+      <entry key="H2" value="147.09483635847795" />
+      <entry key="H4" value="247.8922360499237" />
+      <entry key="D1" value="446.5689064417932" />
+      <entry key="W1" value="502.7048781186763" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="8.999769584088237E-85" />
+      <entry key="S2" value="9.739975123109645E-22" />
+      <entry key="S5" value="3.939337035385433E-9" />
+      <entry key="S10" value="6.276413813146353E-5" />
+      <entry key="S30" value="0.03974085383219988" />
+      <entry key="S60" value="0.19937032158958506" />
+      <entry key="M2" value="0.4523174454169935" />
+      <entry key="M5" value="1.068032038869185" />
+      <entry key="M10" value="2.969451218402084" />
+      <entry key="M15" value="5.482081174745798" />
+      <entry key="M30" value="13.066916184649726" />
+      <entry key="H1" value="26.410263560685554" />
+      <entry key="H2" value="49.71464198350642" />
+      <entry key="H4" value="84.16804991141115" />
+      <entry key="D1" value="156.9934806868028" />
+      <entry key="W1" value="178.11245861508283" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="6.857640994814438E-4" />
-      <entry key="MS500" value="0.23293510732619324" />
-      <entry key="S2" value="0.694718297179424" />
-      <entry key="S5" value="0.8644173893059977" />
-      <entry key="S10" value="0.9297404956808243" />
-      <entry key="S30" value="0.9762241231281871" />
-      <entry key="S60" value="1.013348948893824" />
-      <entry key="M2" value="1.3188390139329782" />
-      <entry key="M5" value="3.7537552549034925" />
-      <entry key="M10" value="10.720929096486394" />
-      <entry key="M15" value="19.52476324247768" />
-      <entry key="M30" value="47.28366087402746" />
-      <entry key="H1" value="101.54967287270868" />
-      <entry key="H2" value="198.4338893069563" />
-      <entry key="H4" value="333.27143103494143" />
-      <entry key="D1" value="603.2313408275205" />
-      <entry key="W1" value="679.9251063644463" />
+      <entry key="MS100" value="0.7900413118633771" />
+      <entry key="MS500" value="0.9539595505475581" />
+      <entry key="S2" value="0.9882856515007326" />
+      <entry key="S5" value="0.9952976932193831" />
+      <entry key="S10" value="0.9977044287851652" />
+      <entry key="S30" value="1.0380107215132062" />
+      <entry key="S60" value="1.2016195020792182" />
+      <entry key="M2" value="1.5886487519269372" />
+      <entry key="M5" value="3.7187991431603757" />
+      <entry key="M10" value="10.124149943734698" />
+      <entry key="M15" value="18.534485775970477" />
+      <entry key="M30" value="45.80896576765334" />
+      <entry key="H1" value="99.85655606102071" />
+      <entry key="H2" value="196.78495954126097" />
+      <entry key="H4" value="332.0395083410978" />
+      <entry key="D1" value="603.5561466149" />
+      <entry key="W1" value="680.8163345792055" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -424,7 +389,8 @@
     <MESSAGE value="junit 테스트코드작성" />
     <MESSAGE value="브랜치 잘못되서 넣은거 09월30일" />
     <MESSAGE value="10월01일 MemberController JUnit test" />
-    <option name="LAST_COMMIT_MESSAGE" value="10월01일 MemberController JUnit test" />
+    <MESSAGE value="10월07일" />
+    <option name="LAST_COMMIT_MESSAGE" value="10월07일" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

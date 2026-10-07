@@ -81,6 +81,6 @@ class QuizControllerTest {
 
         // 검증 then
         result.andExpect(status().isOk())
-                .andExpect(content().string("OK77"));
+                .andExpect(content().string("OK"));
     }
 }
