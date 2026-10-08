@@ -3,7 +3,17 @@ package me.suk.springdeveloper;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
+import java.util.Optional;
+
 @Repository
 public interface MemberRepository extends JpaRepository<Member, Long> {
+    //findAll, findByID, save, deleteById, deleteAll...
+    //select * from member;
+    //select * from member where id = ?;
+    //delete from member where id = ?...
+    //delete from member ;
 
+    //select * from member where name = ?
+
+    public Optional<Member>findByName(String name);
 }
