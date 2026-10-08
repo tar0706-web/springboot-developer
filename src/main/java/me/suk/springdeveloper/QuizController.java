@@ -18,7 +18,7 @@ public class QuizController {
             default:
                 return ResponseEntity.ok().body("OK");
         }
-
+//푸시
 
     }
     //quiz라는 요청이 post방식으로 왔을 때 quiz2 메서드실행
