@@ -4,8 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="466639d1-688e-40bd-a2ee-ff0d740a13b2" name="변경" comment="10월15일 ORM JUnit 테스트 코드 추가">
+    <list default="true" id="466639d1-688e-40bd-a2ee-ff0d740a13b2" name="변경" comment="10월22일 삭제전 커및 및 푸시">
+      <change beforePath="$PROJECT_DIR$/.gradle/9.6.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.6.0/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.6.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.6.0/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.6.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.6.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.6.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.6.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.6.0/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.6.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/suk/springdeveloper/Code.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/suk/springdeveloper/Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/suk/springdeveloper/MemberController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/suk/springdeveloper/MemberRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/suk/springdeveloper/MemberService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/suk/springdeveloper/QuizController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/suk/springdeveloper/TestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/problems/problems-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/problems/problems-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/application1.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Member.class.uniqueId3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/MemberController.class.uniqueId2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/MemberRepository.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/MemberService.class.uniqueId1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +45,9 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
@@ -40,15 +68,15 @@
         <option value="Python Script" />
         <option value="HTML File" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="chapter1" />
+        <entry key="$PROJECT_DIR$" value="chapter0" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,61 +99,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000655830609373" />
-      <entry key="S2" value="1.1900962408969809" />
-      <entry key="S5" value="2.255371915114665" />
-      <entry key="S10" value="3.47218457618334" />
-      <entry key="S30" value="4.94198045743582" />
-      <entry key="S60" value="5.4629441596342545" />
-      <entry key="M2" value="6.439998985375272" />
-      <entry key="M5" value="12.310653665384331" />
-      <entry key="M10" value="21.558584024214824" />
-      <entry key="M15" value="29.17139075523047" />
-      <entry key="M30" value="45.380954437410516" />
-      <entry key="H1" value="61.72546877565181" />
-      <entry key="H2" value="74.14745333905884" />
-      <entry key="H4" value="85.25201046410838" />
-      <entry key="D1" value="361.45160278327353" />
-      <entry key="W1" value="689.8097892212668" />
+      <entry key="MS100" value="1.5976027103978507" />
+      <entry key="MS500" value="3.109131010931919" />
+      <entry key="S2" value="3.7426673204787058" />
+      <entry key="S5" value="3.8940548267924204" />
+      <entry key="S10" value="3.9927802938907857" />
+      <entry key="S30" value="6.334165937523657" />
+      <entry key="S60" value="10.307745896573179" />
+      <entry key="M2" value="14.355497938815477" />
+      <entry key="M5" value="17.943196146837842" />
+      <entry key="M10" value="19.612122806307116" />
+      <entry key="M15" value="21.36773478507753" />
+      <entry key="M30" value="33.15305976209443" />
+      <entry key="H1" value="75.3154686518736" />
+      <entry key="H2" value="174.6890266934731" />
+      <entry key="H4" value="319.52057347495935" />
+      <entry key="D1" value="805.6652191531987" />
+      <entry key="W1" value="1238.8538138026095" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="2.840368373843836E-290" />
-      <entry key="S2" value="5.276334463616127E-73" />
-      <entry key="S5" value="2.0602731528508156E-29" />
-      <entry key="S10" value="7.788794065794804E-15" />
-      <entry key="S30" value="5.3452454427738375E-5" />
-      <entry key="S60" value="0.021081625721602562" />
-      <entry key="M2" value="0.5171074945701832" />
-      <entry key="M5" value="4.081646021474011" />
-      <entry key="M10" value="9.201754069652267" />
-      <entry key="M15" value="13.222316980455467" />
-      <entry key="M30" value="22.023564495230662" />
-      <entry key="H1" value="31.3842490057859" />
-      <entry key="H2" value="38.74802920737098" />
-      <entry key="H4" value="44.81244531312768" />
-      <entry key="D1" value="152.23203670070384" />
-      <entry key="W1" value="276.7817950566576" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="5.211453123233269E-279" />
+      <entry key="S10" value="1.3695296329443668E-139" />
+      <entry key="S30" value="1.5440757258959845E-46" />
+      <entry key="S60" value="3.001410279424275E-23" />
+      <entry key="M2" value="1.3505281786487396E-11" />
+      <entry key="M5" value="1.4414377980165625E-4" />
+      <entry key="M10" value="0.04193269874402568" />
+      <entry key="M15" value="0.3474399819920062" />
+      <entry key="M30" value="4.224570011603546" />
+      <entry key="H1" value="23.09708951340729" />
+      <entry key="H2" value="74.99943221798227" />
+      <entry key="H4" value="155.3422193802601" />
+      <entry key="D1" value="392.13795121796426" />
+      <entry key="W1" value="570.4944041231576" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9592641193252643" />
-      <entry key="MS500" value="0.9917817081074568" />
-      <entry key="S2" value="1.1876433949063292" />
-      <entry key="S5" value="2.2536075221123038" />
-      <entry key="S10" value="3.470865712007722" />
-      <entry key="S30" value="4.941415602657617" />
-      <entry key="S60" value="5.4826715010669025" />
-      <entry key="M2" value="6.942835341179711" />
-      <entry key="M5" value="16.345931967340874" />
-      <entry key="M10" value="30.708228781488554" />
-      <entry key="M15" value="42.34292572636029" />
-      <entry key="M30" value="67.35922855935524" />
-      <entry key="H1" value="93.0754006650022" />
-      <entry key="H2" value="112.87353571237823" />
-      <entry key="H4" value="130.05163002505546" />
-      <entry key="D1" value="513.6774226441496" />
-      <entry key="W1" value="966.5900312194665" />
+      <entry key="MS100" value="1.5162474977537614" />
+      <entry key="MS500" value="3.0730183858035303" />
+      <entry key="S2" value="3.731442813066882" />
+      <entry key="S5" value="3.8893522620640506" />
+      <entry key="S10" value="3.9903648700374457" />
+      <entry key="S30" value="6.332941976799078" />
+      <entry key="S60" value="10.306789056676285" />
+      <entry key="M2" value="14.354845668346343" />
+      <entry key="M5" value="17.943016821199954" />
+      <entry key="M10" value="19.653666821653623" />
+      <entry key="M15" value="21.71381225725704" />
+      <entry key="M30" value="37.37014289560349" />
+      <entry key="H1" value="98.3938303779222" />
+      <entry key="H2" value="249.65970572615026" />
+      <entry key="H4" value="474.83326781881567" />
+      <entry key="D1" value="1197.7901630284507" />
+      <entry key="W1" value="1809.3454344310373" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -140,61 +168,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Gradle.JUnitTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.JUnitTest.junitFailTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.MemberControllerTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.MemberRepositoryTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.QuizControllerTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.backend-developer 빌드.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Spring Boot.SpringBootDeveloperApplication (1).executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SpringBootDeveloperApplication.executor&quot;: &quot;Run&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;chapter0&quot;,
-    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;1&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/tar07/IdeaProjects/backend-developer/src/main/resources&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/tar07/IdeaProjects/backend-developer/src/main/java/me/suk/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Gradle.JUnitTest.executor": "Run",
+    "Gradle.JUnitTest.junitFailTest.executor": "Run",
+    "Gradle.MemberControllerTest.executor": "Run",
+    "Gradle.MemberRepositoryTest.executor": "Run",
+    "Gradle.QuizControllerTest.executor": "Run",
+    "Gradle.backend-developer [:me.suk.springdeveloper.test.Test.main()].executor": "Run",
+    "Gradle.backend-developer 빌드.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.SpringBootDeveloperApplication (1).executor": "Run",
+    "Spring Boot.SpringBootDeveloperApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "blogservice",
+    "git.auto.fetch.suggestion.counter": "1",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/tar07/IdeaProjects/backend-developer/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/tar07/IdeaProjects/backend-developer/src/main/java/me/suk/Main.java",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "to.speed.mode.migration.done": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mariadb&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mariadb"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="me.suk.springdeveloper.controller" />
       <recent name="me.suk.springdeveloper" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -207,36 +237,23 @@
       <recent name="C:\Users\tar07\IdeaProjects\backend-developer\src\test\resources" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="me.suk.springdeveloper.controller" />
       <recent name="me.suk.springdeveloper" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.MemberRepositoryTest">
-    <configuration name="JUnitTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;JUnitTest&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <ExternalSystemDebugDisabled>false</ExternalSystemDebugDisabled>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
-      <GradleProfilingDisabled>false</GradleProfilingDisabled>
-      <GradleCoverageDisabled>false</GradleCoverageDisabled>
-      <method v="2" />
+  <component name="RunManager" selected="Spring Boot.SpringBootDeveloperApplication (1)">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.suk.springdeveloper.test.Test" />
+      <module name="backend-developer.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.suk.springdeveloper.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="MemberControllerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -341,11 +358,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Test" />
         <item itemvalue="Gradle.MemberRepositoryTest" />
         <item itemvalue="Gradle.QuizControllerTest" />
         <item itemvalue="Gradle.MemberControllerTest" />
         <item itemvalue="Spring Boot.SpringBootDeveloperApplication" />
-        <item itemvalue="Gradle.JUnitTest" />
       </list>
     </recent_temporary>
   </component>
@@ -386,7 +403,8 @@
     <MESSAGE value="10월09일" />
     <MESSAGE value="10월14일 MemberRepositoryTest save" />
     <MESSAGE value="10월15일 ORM JUnit 테스트 코드 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="10월15일 ORM JUnit 테스트 코드 추가" />
+    <MESSAGE value="10월22일 삭제전 커및 및 푸시" />
+    <option name="LAST_COMMIT_MESSAGE" value="10월22일 삭제전 커및 및 푸시" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -395,16 +413,6 @@
           <url>file://$PROJECT_DIR$/build.gradle</url>
           <line>1</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/me/suk/springdeveloper/MemberRepositoryTest.java</url>
-          <line>126</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/me/suk/springdeveloper/MemberRepositoryTest.java</url>
-          <line>130</line>
-          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
