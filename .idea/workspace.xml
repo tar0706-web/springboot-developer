@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="466639d1-688e-40bd-a2ee-ff0d740a13b2" name="변경" comment="10월22일 삭제전 커및 및 푸시">
+    <list default="true" id="466639d1-688e-40bd-a2ee-ff0d740a13b2" name="변경" comment="blog service 실습 내용">
+      <change beforePath="$PROJECT_DIR$/.gradle/9.6.0/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.6.0/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.6.0/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.6.0/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/9.6.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.6.0/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/9.6.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.6.0/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/9.6.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.6.0/fileHashes/fileHashes.bin" afterDir="false" />
@@ -12,25 +14,28 @@
       <change beforePath="$PROJECT_DIR$/.gradle/9.6.0/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.6.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/suk/springdeveloper/Code.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/suk/springdeveloper/Member.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/suk/springdeveloper/MemberController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/suk/springdeveloper/MemberRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/suk/springdeveloper/MemberService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/suk/springdeveloper/QuizController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/suk/springdeveloper/TestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/me/suk/springdeveloper/MemberControllerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/me/suk/springdeveloper/MemberRepositoryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/me/suk/springdeveloper/QuizControllerTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/problems/problems-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/problems/problems-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/application1.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/data.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Member.class.uniqueId3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/MemberController.class.uniqueId2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/MemberRepository.class.uniqueId0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/MemberService.class.uniqueId1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/me.suk.springdeveloper.MemberRepositoryTest/deleteAll().html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/me.suk.springdeveloper.MemberRepositoryTest/deleteById().html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/me.suk.springdeveloper.MemberRepositoryTest/getAllMembers().html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/me.suk.springdeveloper.MemberRepositoryTest/getMemberById().html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/me.suk.springdeveloper.MemberRepositoryTest/getMemberByname().html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/me.suk.springdeveloper.MemberRepositoryTest/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/me.suk.springdeveloper.MemberRepositoryTest/saveMember().html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/me.suk.springdeveloper.MemberRepositoryTest/saveMembers().html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/me.suk.springdeveloper.MemberRepositoryTest/update().html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/insert_member.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-me.suk.springdeveloper.MemberRepositoryTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output-events.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output-events.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results-generic.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results-generic.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/MemberRepositoryTest.class.uniqueId0" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/MemberRepositoryTest.class.uniqueId0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,61 +104,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.5976027103978507" />
-      <entry key="MS500" value="3.109131010931919" />
-      <entry key="S2" value="3.7426673204787058" />
-      <entry key="S5" value="3.8940548267924204" />
-      <entry key="S10" value="3.9927802938907857" />
-      <entry key="S30" value="6.334165937523657" />
-      <entry key="S60" value="10.307745896573179" />
-      <entry key="M2" value="14.355497938815477" />
-      <entry key="M5" value="17.943196146837842" />
-      <entry key="M10" value="19.612122806307116" />
-      <entry key="M15" value="21.36773478507753" />
-      <entry key="M30" value="33.15305976209443" />
-      <entry key="H1" value="75.3154686518736" />
-      <entry key="H2" value="174.6890266934731" />
-      <entry key="H4" value="319.52057347495935" />
-      <entry key="D1" value="805.6652191531987" />
-      <entry key="W1" value="1238.8538138026095" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0012967780040716" />
+      <entry key="S2" value="1.6686373788028328" />
+      <entry key="S5" value="3.8356462081699854" />
+      <entry key="S10" value="5.724521196284518" />
+      <entry key="S30" value="7.700303193873752" />
+      <entry key="S60" value="8.430767695668242" />
+      <entry key="M2" value="10.14469860246048" />
+      <entry key="M5" value="16.115146364126264" />
+      <entry key="M10" value="21.401042976060225" />
+      <entry key="M15" value="24.754170382894255" />
+      <entry key="M30" value="37.48608637625394" />
+      <entry key="H1" value="78.83060198971414" />
+      <entry key="H2" value="177.21627945434196" />
+      <entry key="H4" value="322.5476718383342" />
+      <entry key="D1" value="812.1361217094661" />
+      <entry key="W1" value="1247.297540703657" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
-      <entry key="S5" value="5.211453123233269E-279" />
-      <entry key="S10" value="1.3695296329443668E-139" />
-      <entry key="S30" value="1.5440757258959845E-46" />
-      <entry key="S60" value="3.001410279424275E-23" />
-      <entry key="M2" value="1.3505281786487396E-11" />
-      <entry key="M5" value="1.4414377980165625E-4" />
-      <entry key="M10" value="0.04193269874402568" />
-      <entry key="M15" value="0.3474399819920062" />
-      <entry key="M30" value="4.224570011603546" />
-      <entry key="H1" value="23.09708951340729" />
-      <entry key="H2" value="74.99943221798227" />
-      <entry key="H4" value="155.3422193802601" />
-      <entry key="D1" value="392.13795121796426" />
-      <entry key="W1" value="570.4944041231576" />
+      <entry key="S5" value="1.3381426144750398E-302" />
+      <entry key="S10" value="2.194538561852325E-151" />
+      <entry key="S30" value="1.806865628612199E-50" />
+      <entry key="S60" value="3.246788477906036E-25" />
+      <entry key="M2" value="1.4046494884869408E-12" />
+      <entry key="M5" value="5.82937014266715E-5" />
+      <entry key="M10" value="0.026666479071813243" />
+      <entry key="M15" value="0.2569340736049907" />
+      <entry key="M30" value="3.6329001894780544" />
+      <entry key="H1" value="21.41868158908787" />
+      <entry key="H2" value="72.22303159296342" />
+      <entry key="H4" value="152.4398016249578" />
+      <entry key="D1" value="390.90721564253204" />
+      <entry key="W1" value="570.2382719505297" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.5162474977537614" />
-      <entry key="MS500" value="3.0730183858035303" />
-      <entry key="S2" value="3.731442813066882" />
-      <entry key="S5" value="3.8893522620640506" />
-      <entry key="S10" value="3.9903648700374457" />
-      <entry key="S30" value="6.332941976799078" />
-      <entry key="S60" value="10.306789056676285" />
-      <entry key="M2" value="14.354845668346343" />
-      <entry key="M5" value="17.943016821199954" />
-      <entry key="M10" value="19.653666821653623" />
-      <entry key="M15" value="21.71381225725704" />
-      <entry key="M30" value="37.37014289560349" />
-      <entry key="H1" value="98.3938303779222" />
-      <entry key="H2" value="249.65970572615026" />
-      <entry key="H4" value="474.83326781881567" />
-      <entry key="D1" value="1197.7901630284507" />
-      <entry key="W1" value="1809.3454344310373" />
+      <entry key="MS100" value="0.8705505632961241" />
+      <entry key="MS500" value="0.9739413836357519" />
+      <entry key="S2" value="1.6605005997989073" />
+      <entry key="S5" value="3.83088945662176" />
+      <entry key="S10" value="5.7215094360547605" />
+      <entry key="S30" value="7.6990817308340205" />
+      <entry key="S60" value="8.430112828695053" />
+      <entry key="M2" value="10.144299444921636" />
+      <entry key="M5" value="16.114939061184934" />
+      <entry key="M10" value="21.42739450439337" />
+      <entry key="M15" value="25.010051604089867" />
+      <entry key="M30" value="41.112525581434454" />
+      <entry key="H1" value="100.23190534392697" />
+      <entry key="H2" value="249.41161659761747" />
+      <entry key="H4" value="474.95849723407235" />
+      <entry key="D1" value="1203.0303703598718" />
+      <entry key="W1" value="1817.5330303415308" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -404,7 +409,8 @@
     <MESSAGE value="10월14일 MemberRepositoryTest save" />
     <MESSAGE value="10월15일 ORM JUnit 테스트 코드 추가" />
     <MESSAGE value="10월22일 삭제전 커및 및 푸시" />
-    <option name="LAST_COMMIT_MESSAGE" value="10월22일 삭제전 커및 및 푸시" />
+    <MESSAGE value="blog service 실습 내용" />
+    <option name="LAST_COMMIT_MESSAGE" value="blog service 실습 내용" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
